@@ -21,9 +21,15 @@
     <ClCompile Include="frequency_filter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="image_restoration.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="frequency_filter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="image_restoration.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
